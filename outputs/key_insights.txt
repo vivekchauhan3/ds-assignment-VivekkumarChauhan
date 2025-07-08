@@ -1,0 +1,27 @@
+KEY INSIGHTS FROM TRADING BEHAVIOR vs MARKET SENTIMENT ANALYSIS
+======================================================================
+
+SUMMARY STATISTICS:
+--------------------
+Total Trades: 211218
+Date Range: 2023-05-01 to 2025-05-01
+Unique Trading Days: 479
+Total PnL: 10254486.949306002
+Average PnL per Trade: 48.549304270024344
+Profitable Trades %: 41.124809438589516
+Total Volume (USD): 1191098773.6
+Average Trade Size (USD): 5639.191610563493
+Fear Trading Days %: 29.276387429101685
+Greed Trading Days %: 23.815678587999127
+Extreme Greed Trading Days %: 18.93399236807469
+Neutral Trading Days %: 17.84222935545266
+Extreme Fear Trading Days %: 10.131712259371833
+
+======================================================================
+DETAILED INSIGHTS:
+--------------------
+1. 🎯 PROFITABILITY: Traders are most profitable during 'Extreme Greed' periods (avg: $67.89) and least profitable during 'Neutral' periods (avg: $34.31)
+2. 📊 VOLUME: Highest trading volumes occur during 'Fear' periods (avg: $7816.11) vs lowest during 'Extreme Greed' periods (avg: $3112.25)
+3. 🔄 TRADING BEHAVIOR: Highest buy ratio during 'Extreme Fear' (51.1% buys) vs lowest during 'Extreme Greed' (44.9% buys)
+4. 💱 PRICE VOLATILITY: Highest price volatility during 'Fear' periods (std: 31644.4329)
+5. ⚠️ RISK: Highest risk (PnL volatility) during 'Extreme Fear' periods (std: $1136.06)

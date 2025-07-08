@@ -27,8 +27,8 @@ ds_VivekkumarChauhan/
 ```
 
 ### 🔗 Links
-- **Google Colab Notebook**: [[Insert your Colab link here](https://colab.research.google.com/drive/166oMvDSDVvyPyyU67-IFdcHcwcTa0wE4?usp=sharing)]
-- **GitHub Repository**: [Insert your GitHub repo link here]
+- **Google Colab Notebook**: [[Click here to vist](https://colab.research.google.com/drive/166oMvDSDVvyPyyU67-IFdcHcwcTa0wE4?usp=sharing)]
+- **GitHub Repository**: [[Click here to vist](https://github.com/vivekchauhan3/ds-assignment-VivekkumarChauhan.git)]
 
 ### 📊 Datasets Used
 1. **Bitcoin Market Sentiment Dataset** - Fear & Greed Index data

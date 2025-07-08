@@ -6,7 +6,7 @@ Analyze the relationship between trader behavior and market sentiment using Bitc
 
 ### 📁 Project Structure
 ```
-ds_<your_name>/
+ds_VivekkumarChauhan/
 ├── notebook_1.ipynb          # Complete analysis in Google Colab
 ├── csv_files/                # All processed data files
 │   ├── merged_trading_sentiment_data.csv
@@ -15,17 +15,19 @@ ds_<your_name>/
 │   ├── volume_analysis.csv
 │   ├── side_analysis.csv
 │   └── key_insights.txt
+|    ............
 ├── outputs/                  # All visualizations and charts
 │   ├── sentiment_distribution.png
 │   ├── trading_metrics_by_sentiment.png
 │   ├── correlation_heatmap.png
 │   └── time_series_analysis.png
+|    .............
 ├── ds_report.pdf            # Final summarized insights and explanations
 └── README.md                # This file
 ```
 
 ### 🔗 Links
-- **Google Colab Notebook**: [Insert your Colab link here]
+- **Google Colab Notebook**: [[Insert your Colab link here](https://colab.research.google.com/drive/166oMvDSDVvyPyyU67-IFdcHcwcTa0wE4?usp=sharing)]
 - **GitHub Repository**: [Insert your GitHub repo link here]
 
 ### 📊 Datasets Used
@@ -115,11 +117,7 @@ Based on the analysis, the following trading strategies emerge:
 3. **Volume-Based Entry/Exit Strategies**
 4. **Leverage Adjustment Protocols**
 
-### 📞 Contact Information
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+
 
 ### 🔄 Reproducibility
 All code is documented and reproducible. The Google Colab notebook includes:
